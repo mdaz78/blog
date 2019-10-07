@@ -49,9 +49,9 @@ const Bio = () => {
         </a>
       </p> */}
       <p>
-        I am a self taught developer currently working as a software engineer at
-        a startup called Jaaga Labs. I generally blog about technology, life and
-        anything in between.
+        Hi! My name is Zafar, I am a self taught developer currently working as
+        a software engineer at a startup called Jaaga Labs. I generally blog
+        about technology, life and anything in between.
       </p>
     </div>
   )
