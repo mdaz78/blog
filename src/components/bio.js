@@ -50,7 +50,7 @@ const Bio = () => {
       </p> */}
       <p>
         Hi! My name is Zafar, I am a self taught developer currently working as
-        a software engineer at a startup called Jaaga Labs. I generally blog
+        a software engineer at a startup called IoT Ready. I generally blog
         about technology, life and anything in between.
       </p>
     </div>
