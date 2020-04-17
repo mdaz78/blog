@@ -49,8 +49,8 @@ const Bio = () => {
         </a>
       </p> */}
       <p>
-        Hi! My name is Zafar, I am a self taught developer currently working as
-        a software engineer at a startup called IoT Ready. I generally blog
+        Hi! My name is Zafar, I am a self taught developer, currently working as
+        a Software Engineer at a startup called IoT Ready. I generally blog
         about technology, life and anything in between.
       </p>
     </div>
